@@ -8,4 +8,6 @@ Input: https://leafletjs.com/examples.html
 
 https://github.com/Lapizistik/leaflet-examples
 
+http://leaflet-extras.github.io/leaflet-providers/preview/
+
 http://geojson.io/#map=2/20.0/0.0
